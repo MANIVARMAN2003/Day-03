@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bitter&family=Fira+Sans+Condensed:ital,wght@1,300&family=Josefin+Sans:wght@300&family=Overpass:wght@300&family=Prompt:wght@300&family=Roboto+Slab:wght@300&family=Varela+Round&display=swap');
+*{
+   padding: 0;
+   margin: 10px;
+}
+body{
+    background-color: #3dbebe;
+    align-content: center;
+    text-decoration-color: blue;
+    font-family: 'Anton', sans-serif;
+font-family: 'Bitter', serif;
+font-family: 'Fira Sans Condensed', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Overpass', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Varela Round', sans-serif;
+
+}
+h1{
+    text-align: center;
+    color: rgb(58, 4, 109);  
+}
+img{
+    width: 70vw;
+    height: 85vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#benefits1 h1{
+    text-align: center;
+    color: rgb(102, 32, 168);
+}
+#benefitsParagraph{
+    font-size: 14px;
+}
+#steps{
+    text-align: center;
+    color: rgb(102, 32, 168)
+}
+#stepForVegetableSalad{
+    text-align: center;
+    list-style-position: inside;
+    font-size: large;
+}
+footer{
+    text-align: center;
+}
